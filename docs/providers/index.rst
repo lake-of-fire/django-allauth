@@ -105,6 +105,7 @@ Provider Specifics
    pocket
    quickbooks
    reddit
+   saml
    salesforce
    sharefile
    shopify
